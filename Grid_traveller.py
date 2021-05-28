@@ -1,6 +1,6 @@
 '''
 # Grid Traveller 
-A player can move  Right and Down to reach to the Destination for an NxN matrix
+A player can move  Right and Down to reach to the Destination for an MxN matrix
 
      ---------------------------
      |  O    |          |       |  
